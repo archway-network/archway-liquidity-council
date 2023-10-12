@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "archway-network"
+  },
+  "targets": {
+    "archway-network": {
+      "hosting": {
+        "archway-liquidity-council": [
+          "archway-liquidity-council-158y1h"
+        ]
+      }
+    }
+  }
+}
